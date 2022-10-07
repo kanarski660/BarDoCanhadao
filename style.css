@@ -1,0 +1,13 @@
+body{ 
+    background-color:#696969 
+}
+h1{
+    text-align: center;
+    text-decoration: rgb(255, 255, 255);
+    font-size: 35px;
+}
+p{
+    text-align: center;
+    text-decoration:rgb(255, 255, 255) ;
+    font-size: 20px;
+}
